@@ -1,0 +1,63 @@
+{
+  "name": "default",
+  "size": {
+    "x": 3,
+    "y": 3
+  },
+  "sounds": [
+    {
+      "name": "Airhorn",
+      "filename": "airhorn.wav",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "name": "Bruh",
+      "filename": "Bruh Sound Effect #2.wav",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "name": "Vine Boom",
+      "filename": "vine_boom.wav",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "name": "Bonk",
+      "filename": "bonk.wav",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "name": "Yay",
+      "filename": "child_yay.wav",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "name": "Snore",
+      "filename": "tiktok_snore.wav",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "name": "Trolling",
+      "filename": "wedoalittletrolling.wav",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "name": "WTF Boom",
+      "filename": "wtf_boom.wav",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "name": "Dawg",
+      "filename": "whatthedogdoin.wav",
+      "row": 2,
+      "col": 2
+    }
+  ]
+}
